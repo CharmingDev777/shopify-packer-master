@@ -55,14 +55,3 @@ NPM
 npm i @hayes0724/shopify-packer -g
 ```
 
-## Documentation
-View the [docs](https://hayes0724.github.io/shopify-packer/) website for usage
-
-## Troubleshooting
-If you have questions or need help, please ask in [GitHub Discussions](https://github.com/hayes0724/shopify-packer/discussions).
-
-## Changelog
-View recent changes [here](https://github.com/hayes0724/shopify-packer/blob/master/CHANGELOG.md)
-
-## Contributing
-We ❤️ pull requests, please read the [Contributing guide](https://github.com/hayes0724/shopify-packer/blob/master/CONTRIBUTING.md) before getting started.
